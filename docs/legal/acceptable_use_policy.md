@@ -1,26 +1,28 @@
-# Acceptable Use Policy (AUP)
+# Acceptable Use Policy (AUP) — Rod&Roam
 
-**Effective Date:** 2026-03-21
+**Effective date:** 2026-03-21
 
-## Introduction
-This Acceptable Use Policy (AUP) outlines the acceptable use of our services and applications. By using our services, you agree to comply with the terms of this policy.
+**Operator:** Tyler John Woodford trading as Rod&Roam (ABN 61632094593)  
+**Contact:** support@rodnroam.com.au
 
-## Acceptable Use
-- Users shall use the services for lawful purposes only.
-- Users shall not engage in any activity that could damage our systems or networks.
-- Users shall respect the privacy and data rights of other users.
+**Version history:** v1.0 – 2026-03-21 (initial release)
 
-## Prohibited Activities
-The following activities are not permitted:
-- Harassment or abuse of others.
-- Disseminating malware or other harmful software.
-- Using services for illegal activities.
+---
 
-## Enforcement
-Any violations of this policy may result in immediate termination of access to our services.
+## 1. Security and platform integrity
 
-## Changes to the Policy
-We may revise this policy at any time and will notify users of any significant changes.
+- No unauthorised access to accounts, private areas, or systems.
+- No probing, scanning, or testing vulnerabilities.
+- No malware, denial-of-service, or interference with normal operation.
 
-## Contact Information
-For questions regarding this policy, please contact us at support@example.com
+## 2. Automated use, scraping, and data harvesting
+
+Unless we provide written permission, you must not use bots, scrapers, or automated tools to access the App, collect data, or extract content at scale.
+
+## 3. Reverse engineering and misuse
+
+You must not reverse engineer, decompile, or attempt to discover source code, except to the extent permitted by law. You must not use the App to infringe intellectual property rights.
+
+## 4. Breaches
+
+If you breach this AUP, we may suspend or terminate your account and take other action as described in the Terms of Service.

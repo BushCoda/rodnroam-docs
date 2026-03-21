@@ -1,7 +1,20 @@
-# Safety & Fishing Disclaimer
+# Safety & Fishing Disclaimer — Rod&Roam
 
-Effective Date: 2026-03-21
+**Effective date:** 2026-03-21  
+**Contact:** support@rodnroam.com.au
 
-Fishing can involve a range of hazards, including but not limited to, slips, trips, and falls, water-related accidents, and equipment failures. Participants should exercise caution and ensure they are aware of their surroundings and the potential risks associated with fishing activities. Always wear appropriate safety gear, be vigilant about weather conditions, and ensure that you have the necessary information and resources to fish safely.
+**Version history:** v1.0 – 2026-03-21 (initial release)
 
-By participating in fishing activities, you acknowledge that you are doing so at your own risk and will not hold [Your Company/Organization Name] liable for any injuries or accidents that may occur.
+---
+
+## 1. General safety
+
+Fishing and outdoor activities involve risks (weather, tides, terrain, water hazards, wildlife, equipment). You are responsible for assessing conditions, using appropriate safety gear, and following local directions and warnings.
+
+## 2. Regulations
+
+Any rules and regulations information provided in the App is general and may be incomplete or out of date. Always check official government sources for current fishing laws, closures, permits, bag limits, and size limits before fishing.
+
+## 3. Emergencies
+
+In an emergency, call 000. Rod&Roam is not an emergency or rescue service.
