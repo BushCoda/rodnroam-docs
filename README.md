@@ -15,6 +15,24 @@ Whether you're a first-timer or a seasoned angler, this site has everything you 
 | [FAQs](docs/faq.md) | Quick answers to the most common questions |
 | [Troubleshooting & Support](docs/troubleshooting.md) | Fix issues and get in touch with our team |
 | [Terms of Use & Privacy](docs/terms-and-privacy.md) | Our policies and your data rights |
+| [Legal Documents](docs/legal/README.md) | Full legal documents including Terms of Service, Privacy Policy, and more |
+
+---
+
+## ⚖️ Legal Documents
+
+| Document | Description |
+|---|---|
+| [Terms of Service](docs/legal/terms_of_service.md) | App terms and conditions |
+| [Privacy Policy](docs/legal/privacy_policy.md) | How we collect, use, and protect your data (Australian Privacy Principles) |
+| [Subscription Terms](docs/legal/subscription_terms.md) | Auto-renewal and billing information |
+| [Refund & Cancellation Policy](docs/legal/refund_and_cancellation_policy.md) | How to cancel and request refunds |
+| [Community Guidelines](docs/legal/community_guidelines.md) | Rules for a safe and respectful community |
+| [Acceptable Use Policy](docs/legal/acceptable_use_policy.md) | Permitted and prohibited uses of the App |
+| [Content Moderation & Takedown Process](docs/legal/content_moderation_takedown_process.md) | How we handle reports and content removal |
+| [Safety & Fishing Disclaimer](docs/legal/safety_fishing_disclaimer.md) | Important safety information for anglers |
+| [Contact, Complaints & Data Requests](docs/legal/contact_complaints_data_requests.md) | How to reach us and submit requests |
+| [Data Breach Response](docs/legal/data_breach_response.md) | Our response process for data incidents |
 
 ---
 
