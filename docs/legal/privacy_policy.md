@@ -61,6 +61,17 @@ We will only send marketing messages where permitted by law (including obtaining
 
 We take reasonable steps to protect personal information from misuse, interference, loss, and unauthorised access, modification, or disclosure. We keep information only for as long as needed for the purposes in this policy, unless we are required or authorised by law to retain it longer.
 
+### 8.1 Data breach response
+
+This section summarises how we respond to suspected data breaches, including eligible data breaches under the Notifiable Data Breaches (NDB) scheme.
+
+- **Contain:** Take steps to stop unauthorised access and prevent further harm.
+- **Assess:** Investigate what happened, what information was involved, and the likelihood of serious harm.
+- **Notify:** If required, notify affected individuals and the OAIC as soon as practicable after completing an assessment.
+- **Review:** Improve controls to reduce the chance of recurrence.
+
+If you suspect your account has been compromised, change your password (where applicable), secure your email account, and contact support@rodnroam.com.au.
+
 ## 9. Access, correction, and complaints
 
-You can request access to, or correction of, personal information we hold about you by contacting support@rodnroam.com.au. If you have a privacy complaint, contact us and we will respond within a reasonable time. If you are not satisfied, you can contact the Office of the Australian Information Commissioner (OAIC).
+You may request access to, correction of, or deletion of personal information we hold about you (subject to legal exceptions) by emailing support@rodnroam.com.au with your account email/username and details of your request. If you have a privacy complaint, contact us and we will respond within a reasonable time. If you are not satisfied, you can contact the Office of the Australian Information Commissioner (OAIC).
